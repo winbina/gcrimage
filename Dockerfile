@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/metadata-writer:0.2.2
+FROM k8s.gcr.io/kustomize/kustomize:v3.8.7
 MAINTAINER winbina <winbian>
