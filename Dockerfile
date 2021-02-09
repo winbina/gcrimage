@@ -1,2 +1,2 @@
-FROM gcr.io/tfx-oss-public/ml_metadata_store_server:0.21.1
+FROM gcr.io/ml-pipeline/envoy:initial
 MAINTAINER winbina <winbian>
