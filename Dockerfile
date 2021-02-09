@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/frontend:0.3.0
+FROM gcr.io/ml-pipeline/application-crd-controller:1.0-beta-non-cluster-role
 MAINTAINER winbina <winbian>
