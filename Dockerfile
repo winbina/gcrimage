@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/application-crd-controller:1.0-beta-non-cluster-role
+FROM gcr.io/tfx-oss-public/ml_metadata_store_server:0.21.1
 MAINTAINER winbina <winbian>
