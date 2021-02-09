@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kustomize/kustomize:v3.8.7
+FROM gcr.io/ml-pipeline/frontend:0.3.0
 MAINTAINER winbina <winbian>
