@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/inverse-proxy-agent:0.3.0
+FROM gcr.io/ml-pipeline/workflow-controller:v2.3.0-license-compliance
 MAINTAINER winbina <winbian>
