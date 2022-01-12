@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/viewer-crd-controller:0.3.0
+FROM gcr.io/spark-operator/spark-operator:v1beta2-1.3.2-3.1.1
 MAINTAINER winbina <winbian>
